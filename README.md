@@ -21,7 +21,7 @@ pip install -r requeriments.txt
 python -m pip install Pillow
 ```
 
-# Create mirations
+# Create migrations
 ```
 python manage.py makemigrations
 ```
@@ -51,3 +51,10 @@ http://127.0.0.1:8000/
 http://127.0.0.1:8000/admin/
 ```
 
+# References
+```
+https://docs.djangoproject.com/en/5.1/
+https://django-ninja.dev/
+https://pillow.readthedocs.io/en/stable/reference/Image.html
+https://docs.pydantic.dev/latest/
+```
