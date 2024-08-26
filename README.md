@@ -3,7 +3,7 @@ API to recognize leishmaniasis images
 
 # Create virtualenv
 ```
-python -m venv .venv
+python3 -m venv .venv
 ```
 
 # Activate virtualenv
@@ -18,7 +18,7 @@ pip install -r requeriments.txt
 
 # Install Pillow
 ```
-python -m pip install Pillow
+python3 -m pip install Pillow
 ```
 
 # Create migrations
@@ -50,6 +50,12 @@ http://127.0.0.1:8000/
 ```
 http://127.0.0.1:8000/admin/
 ```
+
+# Access to api documentation
+```
+http://127.0.0.1:8000/api/docs
+```
+
 
 # References
 ```
